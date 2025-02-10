@@ -1,4 +1,4 @@
-## signal_strength_quality
+## Signal Strength Quality
 ## To build a machine learning model which can help the company to predict the equipment’s signal quality using various parameters. 
 
 **• DOMAIN:** Electronics and Telecommunication
